@@ -26,6 +26,22 @@ This simple yet powerful demonstration showcases how JavaScript can be employed 
 user experience on the web. As developers, understanding the synergy between HTML, CSS, and JavaScript allows us to create engaging and responsive web applications.
 
 
+How I have Hosted the site :
+Step 1: Go to Setting.
+Step 2 : click on the Page on the left hand side.
+Step 3 : Now Click on the Branch and switch to main and Click save.
+Step 4 : Wait 2-3 min then refresh the page your site will be hosted.
+
+
+Steps How to Push the code in github: 
+
+git init
+git add .
+git commit -m 'Added my project'
+git remote add origin https://github.com/Viswabhi/Dom_Project_1.git
+git push -u -f origin main
+
+
 
 
 
