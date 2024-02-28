@@ -9,3 +9,23 @@ Our HTML document sets the stage with the standard document structure, including
 The script tag at the end of the body contains JavaScript code responsible for dynamically modifying the styles of this div.
 
 ![image](https://github.com/Viswabhi/Dom_Project_1/assets/118526058/325e5993-0f16-4d56-a794-99bd9e4fc99d)
+
+Now, let's break down the JavaScript code step by step.
+
+![image](https://github.com/Viswabhi/Dom_Project_1/assets/118526058/c4e9f770-1b30-42b8-ab2f-f7e275ec0ceb)
+
+Getting the Element:
+The document.getElementById("box") statement fetches the div element with the id "box" from the HTML, storing it in the variable divElement.
+
+Applying Styles Dynamically:
+The subsequent lines use the style property of divElement to dynamically change its appearance. The script sets the text color to blue, background color to yellow, 
+adds margin and padding, adjusts font size and weight, and sets specific height and width.
+
+Conclusion:
+This simple yet powerful demonstration showcases how JavaScript can be employed to dynamically alter the style of HTML elements, providing a dynamic and interactive 
+user experience on the web. As developers, understanding the synergy between HTML, CSS, and JavaScript allows us to create engaging and responsive web applications.
+
+
+
+
+
